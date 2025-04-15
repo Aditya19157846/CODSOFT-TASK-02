@@ -1,25 +1,23 @@
-# CODSOFT Task 02 - Portfolio Website 💼
+# CODSOFT Task 02 - Calculator 🧮
 
-This project is a clean and responsive **Portfolio Website** developed as part of **CODSOFT Internship Task 02**. It is designed to showcase personal information, projects, skills, and contact details in an elegant and professional layout.
+This is a simple **Python-based Calculator** built as part of **CODSOFT Internship Task 02**. It performs basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
-## 🌐 Live Demo
+## 🚀 Features
 
-[Click here to view the live project](#)  
-<!-- Replace '#' with the link to the deployed site (GitHub Pages, Netlify, etc.) -->
+- Command-line interface
+- Supports:
+  - Addition
+  - Subtraction
+  - Multiplication
+  - Division
+- Input validation and error handling (e.g., divide by zero)
 
-## ✨ Features
+## 🛠️ Technologies Used
 
-- Responsive and modern design
-- Animated introduction and sections
-- About Me, Skills, Projects, and Contact sections
-- Customizable for personal use
-- Scroll-based navigation with smooth effects
+- Python 3.x
 
-## 🛠️ Built With
+## 🧾 How to Run
 
-- HTML5
-- CSS3
-- JavaScript
-
-
-
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/Aditya19157846/CODSOFT-TASK-02.git
